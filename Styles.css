@@ -1,0 +1,41 @@
+<style media="screen">
+  h3{
+    text-align: center;
+    color: blue;
+    text-decoration-style: dotted;
+    font-size: 56px;
+    font-style: italic;
+  }
+  h2{
+    color: black;
+    text-decoration-style: none;
+    font-size: 10px;
+    font-style: italic;
+  }
+  table{
+    table-layout: fixed;
+
+  }
+  body{
+    background-image: 1.jpg;
+    background-color: lightblue;
+  }
+  hr{
+
+    border-style: dashed;
+    border-right-style: none;
+    border-width: thick;
+    border-top: none;
+  }
+  p{
+  color: black;
+  text-decoration-style: none;
+  font-size: 10px;
+  font-style: italic;
+}
+a{
+  text-decoration-color: blue;
+  font-size: 20px;
+  font-style: caliber;
+}
+</style>
